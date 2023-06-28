@@ -1,6 +1,6 @@
-## Exercícios Java.
+# Exercícios Java.
  
-# Refazendo a playlist de 120 exercícios de python do canal Curso em Video em Java.
+## Refazendo a playlist de 120 exercícios de python do canal Curso em Video em Java.
 Link da playlist : https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-
 
 
